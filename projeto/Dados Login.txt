@@ -1,0 +1,8 @@
+email:pedro@gmail.com
+password:pedro
+
+email:rodrigo@gmail.com
+password:rodrigo
+
+email:hugo@gmail.com
+password:hugo
